@@ -314,3 +314,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,pycharm
 "node_modules/" 
+".idea/" 
+.idea/ 
